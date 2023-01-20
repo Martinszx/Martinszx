@@ -3,7 +3,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rn.martins_/)                                                                                                                                                                                                                                     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RnMartinsX?t=3VmZwaS9T3FzPFp5uEC9cQ&s=08)
 
 
-## Linguagens  que uso no dia a dia 
+### Linguagens  que uso no dia a dia 
 
 <div style='display:inline_block'><br/>
 <img align ="center" alt = 'HTML5'src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
