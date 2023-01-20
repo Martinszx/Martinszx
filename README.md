@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rn.martins_/)                                                                                                                                                                                                                                     [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RnMartinsX?t=3VmZwaS9T3FzPFp5uEC9cQ&s=08)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martinszx&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martinszx&show_icons=true&theme=radical)
 
 
 <div style='display:inline_block'><br/>
